@@ -12,6 +12,11 @@ li {
     list-style: none;
 }
 
+a,
+a:visited {
+    color: white;
+}
+
 .container {
     margin: 0 auto;
     text-align: center;
